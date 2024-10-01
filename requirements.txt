@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+google-generativeai
+openai
+re
+pydantic
+youtube_transcript_api
