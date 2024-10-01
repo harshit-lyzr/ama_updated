@@ -53,6 +53,7 @@ def get_transcript(video_id):
                 'start': paragraph_start,
                 'duration': paragraph_duration
             })
+        print(paragraphs)
         return paragraphs
 
     except Exception as e:
